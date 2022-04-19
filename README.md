@@ -4,7 +4,7 @@ Analysis AtPolyDB
 1. [x] [Download dataset](https://easygwas.ethz.ch/down/dataset/download/1/)
 2. [x] Extract with [`plink`](https://www.cog-genomics.org/plink2)
 3. [x] Read and parse by [`pandas-plink`](https://github.com/limix/pandas-plink)
-4. [x] TODO
+4. [ ] TODO
 
 ## Reference
 ```bibtex
