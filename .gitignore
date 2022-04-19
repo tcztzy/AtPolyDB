@@ -1,0 +1,10 @@
+.vscode/
+.python-version
+AtPolyDB_(call_method_75__Horton_et_al).zip
+genotype.map
+genotype.ped
+phenotypes.pheno
+plink.bed
+plink.bim
+plink.fam
+plink.log
